@@ -73,6 +73,12 @@
     padding: 4px 8px;
     text-align: center;
     font-size: 1rem;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.client_code_button {
+    margin: 6px auto !important;
 }
 
 .po_item .content a:hover {

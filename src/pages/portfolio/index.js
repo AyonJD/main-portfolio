@@ -26,7 +26,11 @@ export const Portfolio = () => {
                 <img classNam="" src={data.img} alt="" />
                 <div className="content">
                   <p>{data.desctiption}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.live}>View project</a>
+                  <a className="client_code_button" href={data.client}>Client Code</a>
+                  {
+                    data.server && (<a href={data.link}>Server Code</a>)
+                  }
                 </div>
               </div>
             );

@@ -75,50 +75,68 @@ const services = [{
 const dataportfolio = [{
     img: "https://i.ibb.co/G0F2pRJ/project-one.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://explorer-bd.web.app/",
+    client: "https://github.com/AyonJD/explorer-client/tree/ayon",
+    server: "https://github.com/AyonJD/explorer-server"
 },
 {
     img: "https://i.ibb.co/d0pCCkV/flavoro.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://flavoro-4fd30.web.app/",
+    client: "https://github.com/AyonJD/assignment-11-flavoro-warhouse",
+    server: "https://github.com/AyonJD/assignment-11-flavoro-warhouse-server"
 },
 {
     img: "https://i.ibb.co/0QJFtRT/temperature.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://live-weather-ayon.netlify.app/",
+    client: "https://github.com/AyonJD/weather-react-app",
+    server: null
 },
 
 {
     img: "https://i.ibb.co/fvdWnLm/crossfit.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://crossfit-assemble.netlify.app/",
+    client: "https://github.com/AyonJD/gym-center/tree/ayon",
+    server: null
 },
 {
     img: "https://i.ibb.co/mSxzbHr/love.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://love-calculator-ayonjd.netlify.app/",
+    client: "https://github.com/AyonJD/love-calculator",
+    server: null
 },
 
 {
     img: "https://i.ibb.co/3pcX7rX/todo.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://todo-app-eef47.web.app/",
+    client: "https://github.com/AyonJD/todo-app",
+    server: "https://github.com/AyonJD/todo-server"
 },
 {
     img: "https://i.ibb.co/ZNZVy0N/smart-data-table.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://smart-data-table-bb6f7.web.app/",
+    client: "https://github.com/AyonJD/react-smart-table",
+    server: null
 },
 {
     img: "https://i.ibb.co/5LMxbhp/hardware.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://assignment12-685d7.web.app/",
+    client: "https://github.com/AyonJD/MERN-project-assignment-12-hardware-point",
+    server: "https://github.com/AyonJD/MERN-project-assignment-12-server-side"
 },
 
 {
     img: "https://i.ibb.co/Hxf1vSC/crypto.png",
     desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    live: "https://crypto-caffe-ayon.netlify.app/",
+    client: "https://github.com/AyonJD/react-router-crypto-cafe",
+    server: null
 },
 ];
 
