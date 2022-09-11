@@ -88,3 +88,12 @@
 .handle_height {
     max-height: fit-content;
 }
+
+.po_item p {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.height {
+    min-height: 350px;
+}

@@ -22,10 +22,11 @@ export const Portfolio = () => {
         <div className="mb-5 po_items_ho">
           {dataportfolio.map((data, i) => {
             return (
-              <div key={i} className="po_item">
+              <div key={i} className={`po_item ${data.todo && "height"}`}>
                 <img classNam="" src={data.img} alt="" />
                 <div className="content">
-                  <p>{data.desctiption}</p>
+                  <p className=""><strong>Tech:</strong> <span className="font-italic">{data.technology}</span></p>
+                  <p className=""><strong >Summery:</strong> <span className="font-italic">{data.desctiption}</span></p>
                   <a href={data.live}>View project</a>
                   <a className="client_code_button" href={data.client}>Client Code</a>
                   {
